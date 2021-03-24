@@ -6,4 +6,4 @@ The folders above consist of all the required questions and their solutions as w
 
 I will keep on updating this repository, If I feel that anything is missing.
 
-Let me know,if you wish to add anything else to this content.
+Let me know, if you wish to add anything else to this content.
