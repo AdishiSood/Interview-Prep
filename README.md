@@ -19,3 +19,11 @@ To get your dream company, you should be good in the following while facing an i
 
 **📘Ability to write well structured and efficient code.** Ability to evaluate efficiency of the code at different levels – algo, DS, execution level (OS), hardware to reduce memory as well as time; understanding of different layers of the system, and ability to evaluate/assess the program at these different layers.
 
+# Some of the languages used at various organisations as reported online:
+* 📙 Amazon: Java, Javascript, Ruby, Python, Perl sources
+* 📙 Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. sources
+* 📙 Google: C/C++, Java, Python, Javascript, Go sources
+* 📙 Microsoft: C++, C#, Java, Python sources
+
+
+*Tip: Go for the language you are comfortable with, doing any kind of problem, solving things and writing code AND also please know about the internal functionalities as well and how different data structures are implemented in it.
