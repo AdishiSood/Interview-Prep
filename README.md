@@ -26,4 +26,4 @@ To get your dream company, you should be good in the following while facing an i
 * 📙 Microsoft: C++, C#, Java, Python sources
 
 
-* Tip: Go for the language you are comfortable with, doing any kind of problem, solving things and writing code AND also please know about the internal functionalities as well and how different data structures are implemented in it.
+_Tip: Go for the language you are comfortable with, doing any kind of problem, solving things and writing code AND also please know about the internal functionalities as well and how different data structures are implemented in it.
