@@ -1,3 +1,6 @@
+/*
+The following program will create a tree and store some data in it.
+*/
 class Node
 {
   int data; // data used as key value
