@@ -18,3 +18,30 @@ Update PTR by the assignment PTR:=LINK[PTR], and then process INFO[PTR],
 the information at the second node and so on until PTR=NULL, which signals the end of the list.
 
 */
+class LinkList
+{
+  public int Data; // data item
+  public LinkList next; // next link in list
+  
+  public LinkList(int id) // constructor
+  {
+    Data = id; // initialize data and 'next' is automatically set to null
+  }
+  public void display()
+  {
+    System.out.print(Data + "-> ");
+  }
+}
+
+class Main
+{
+  public static void traverse(LinkList first)
+  {
+    LinkList current = first; // start at beginning of list
+    while(current != null) // until end of list,
+    {
+      current.display(); // print data
+      current = current.next; // move to next link
+    }
+    System.out.println("");
+  }
