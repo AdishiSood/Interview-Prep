@@ -18,3 +18,10 @@ so in 3rd step new[next] is actually pointing to itself. So, always change the p
 and then change the existing links to point to new node.
 
 */
+static LinkList insertBeg(LinkList first, int data)
+{
+  LinkList newLink = new LinkList(data);
+  newLink.next = first; // newLink --> old first
+  first = newLink; // first --> newLink
+  return first;
+}
