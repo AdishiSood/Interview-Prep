@@ -1,0 +1,33 @@
+Time Complexity Analysis-
+ 
+- Bubble sort uses two loops- inner loop and outer loop.
+- The inner loop deterministically performs O(n) comparisons.
+ 
+
+Worst Case-
+ 
+- In worst case, the outer loop runs O(n) times.
+- Hence, the worst case time complexity of bubble sort is O(n x n) = O(n2).
+ 
+
+Best Case-
+ 
+- In best case, the array is already sorted but still to check, bubble sort performs O(n) comparisons.
+- Hence, the best case time complexity of bubble sort is O(n).
+ 
+
+Average Case-
+ 
+- In average case, bubble sort may require (n/2) passes and O(n) comparisons for each pass.
+- Hence, the average case time complexity of bubble sort is O(n/2 x n) = Θ(n2).
+ 
+
+The following list summarizes the time complexities of bubble sort in each case-
+
+- Time Complexity
+- Best Case	O(n)
+- Average Case	Θ(n2)
+- Worst Case	O(n2)
+ 
+
+From here, it is clear that bubble sort is not at all efficient in terms of time complexity of its algorithm.
