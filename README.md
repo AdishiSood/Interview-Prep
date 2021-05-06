@@ -1,5 +1,5 @@
 # 🎁 Interview Prep- Complete Roadmap 🎁
-This repository consists of all the necessary questions and their solutions required for cracking technical interviews. And this content will surely help you to crack your dream company. This material has been taken and combined from various different sources. It will be a complete roadmap for your placement prep.
+This repository consists of all the necessary questions and their solutions required for cracking technical interviews. And this content will surely help you get into your dream company. This material has been taken and combined from various different sources. It will be a complete roadmap for your placement prep.
 
 # 🚀 Getting Started
 The folders above consist of all the required questions and their solutions as well, according to each topic
@@ -68,3 +68,18 @@ Understand tree traversal algorithms: BFS and DFS, and know the difference betwe
 📗 **Coding:** You should know at least one programming language really well, and it should preferably be C++ or Java. C# is OK too, since it's pretty similar to Java. You will be expected to write some code in at least some of your interviews. You will be expected to know a fair amount of detail about your favorite programming language.
 
 _Tip: Go for the language you are comfortable with, doing any kind of problem, solving things and writing code AND also please know about the internal functionalities as well and how different data structures are implemented in it_.
+
+# 🏆 SOME EXTRA TIPS:
+## 🔰 Coding Practice
+📒 LeetCode (Go to Problems -> Algorithms)
+📒 GeeksForGeeks
+📒 Hackerrank
+
+## 🔰 General Interview Prep
+📚 GeeksforGeeks
+📚 High Scalability
+📚 Interview Puzzles
+
+Do star, fork and share the repo to show your support, it would help others too!
+
+Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: soodtech01@gmail.com or LinkedIn
