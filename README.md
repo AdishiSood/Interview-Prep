@@ -82,4 +82,4 @@ _Tip: Go for the language you are comfortable with, doing any kind of problem, s
 
 Do star, fork and share the repo to show your support, it would help others too!
 
-Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: soodtech01@gmail.com or LinkedIn
+Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: soodtech01@gmail.com or [LinkedIn](https://www.linkedin.com/in/adishisood/)
