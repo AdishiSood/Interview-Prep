@@ -7,6 +7,7 @@ The folders above consist of all the required questions and their solutions as w
 I will keep on updating this repository, If I feel that anything is missing.
 
 Let me know, if you wish to add anything else to this content.
+_NOTE: The links to the solutions in the pdf are provided as well, but they will work only after you download the file to your machine
 
 # 🏆 What do I need to prepare for the interviews?
 To get your dream company, you should be good in the following while facing an interview:
